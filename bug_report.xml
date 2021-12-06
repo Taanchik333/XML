@@ -1,1 +1,4 @@
-
+<Summary>The button to open the side menu is not fully visible</Summary>
+<Steps>Open the app</Steps>
+<Result>The button to open the side menu is not fully visible</Result>
+<Expected result>The button to open the side menu is fully visible</Expected result>
