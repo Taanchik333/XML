@@ -1,4 +1,7 @@
+ <? Xml версия = "1.0" кодирование = "UTF-8"?>
+<bug_report>
 <Summary>The button to open the side menu is not fully visible</Summary>
 <Steps>Open the app</Steps>
 <Result>The button to open the side menu is not fully visible</Result>
-<Expected result>The button to open the side menu is fully visible</Expected result>
+<Expected_result>The button to open the side menu is fully visible</Expected_result>
+</bug_report>
